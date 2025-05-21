@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "authGoogleExpo",
+    "slug": "authGoogleExpo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hmadiedo.authgoogleexpo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "hmadiedo",
+    "extra": {
+      "eas": {
+        "projectId": "b9e94556-12e0-4b0a-b7c3-2cf16e57f044"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b9e94556-12e0-4b0a-b7c3-2cf16e57f044"
+    }
+  }
+}
