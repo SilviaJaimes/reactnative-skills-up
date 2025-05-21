@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "biometricAuth",
+    "slug": "biometricAuth",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.zkflx05.biometricAuth"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "zkflx05",
+    "extra": {
+      "eas": {
+        "projectId": "41978e4c-ce50-43ca-9ea3-1cc344c34668"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/41978e4c-ce50-43ca-9ea3-1cc344c34668"
+    }
+  }
+}
